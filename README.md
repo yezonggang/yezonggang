@@ -4,9 +4,6 @@
 </p>
 <h2 align="center">你好 👋, 我是叶宗刚</h2>
 <h3 align="center">大数据平台、数据数仓、机器学习、爬虫</h3>
-<h3 align="left">语言和工具使用</h3>
-<h3 align="center">A passionate frontend developer from India</h3>
-
 - 🔭 I’m currently working on [河南信息产业投资有限公司](http://www.hniii.com/)
 
 - 📝 I regularly write articles on [yezonggang.blog.csdn.net](yezonggang.blog.csdn.net)
