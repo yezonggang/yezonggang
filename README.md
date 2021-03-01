@@ -24,3 +24,5 @@
 
 ### :dart: Code Counting
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
