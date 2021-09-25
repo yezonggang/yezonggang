@@ -3,7 +3,7 @@
   <img src="https://weather-icon.journeyad.repl.co/@zhengzhou?v=1" align="right">
 </p>
 <h2 align="center">你好 👋, 我是叶宗刚</h2>
-<h3 align="center">大数据平台、应用开发、数据仓库、机器学习、爬虫</h3>
+<h3 align="center">大数据平台、数据仓库、应用开发、机器学习、爬虫</h3>
 - 🔭 I’m currently working on [<努力.奋斗>有限公司](http://www.baidu.com/)
 
 - 📝 I regularly write articles on [yezonggang.blog.csdn.net](yezonggang.blog.csdn.net)
